@@ -1,0 +1,32 @@
+%!TEX encoding = latin1
+
+% Citation
+%\usepackage[square, comma, sort&compress]{natbib}
+
+% Extended citations
+\usepackage[babel]{csquotes}
+
+% Biblatex
+
+% biblatex include and Settings
+\usepackage[backend=biber,style=authortitle-dw,series=afteryear,firstfull,nopublisher=false]{biblatex}
+
+% Spacing between Cites inside your Bibliographieindex
+\DefineBibliographyStrings{ngerman}{in={In:\hspace{1mm}}}
+
+%Bibliographyoptions
+\ExecuteBibliographyOptions{%
+bibencoding=utf8,
+bibwarn=true,
+sortlocale=de_DE,
+url=false,
+doi=false,
+eprint=false,
+clearlang=true,
+isbn=false,
+}
+
+\DeclareRedundantLanguages{english,german,french}{english,german,ngerman,french}
+
+% Your Bibliography fil(s)
+\addbibresource{bib/literatur.bib}

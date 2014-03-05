@@ -1,0 +1,1562 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{allsopp2009unauthorised}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=a00cbe4a582357bfe6d49d19040bceec}{Allsopp}{A\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a00cbe4a582357bfe6d49d19040bceec}{Allsopp}{A\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{a00cbe4a582357bfe6d49d19040bceec}
+      \strng{fullhash}{a00cbe4a582357bfe6d49d19040bceec}
+      \field{sortinit}{A}
+      \field{labeltitle}{Unauthorised Access: Physical Penetration Testing For IT Security Teams}
+      \field{isbn}{9780470747612}
+      \field{title}{Unauthorised Access: Physical Penetration Testing For IT Security Teams}
+      \field{year}{2009}
+    \endentry
+    \entry{bauer2009handbuch}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=5ec598bf7fab8772021617561ed9f2cb}{Bauer}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ac43f96a7a5f3526eb27d05503e72112}{Reimer}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5ec598bf7fab8772021617561ed9f2cb}{Bauer}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ac43f96a7a5f3526eb27d05503e72112}{Reimer}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {facultas.wuv Universit{\"a}ts}%
+      }
+      \strng{namehash}{17952746786d627b55f06fa866bcea47}
+      \strng{fullhash}{17952746786d627b55f06fa866bcea47}
+      \field{sortinit}{B}
+      \field{labeltitle}{Handbuch Datenschutzrecht}
+      \field{isbn}{9783708905099}
+      \field{title}{Handbuch Datenschutzrecht}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://books.google.de/books?id=po3KjyxkP-MC
+      \endverb
+    \endentry
+    \entry{bendisch2006projekte}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=1eabd83f9099445fd50ce7983719c12f}{Bendisch}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=74c6afa4bd35a05f9c2ef07667138ee4}{Kern}{K\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1eabd83f9099445fd50ce7983719c12f}{Bendisch}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=74c6afa4bd35a05f9c2ef07667138ee4}{Kern}{K\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {MA, Akad.-Verlag}%
+      }
+      \strng{namehash}{e1322fae024d7dbb482a2bcd7598b9e8}
+      \strng{fullhash}{e1322fae024d7dbb482a2bcd7598b9e8}
+      \field{sortinit}{B}
+      \field{labeltitle}{Projekte managen: Basiswissen kompakt;[Wissen f{\"u}r Praktiker auf den Punkt gebracht, Schnellleseunterst{\"u}tzung, grafischer Wegweiser, Lernkontrolle]}
+      \field{isbn}{9783892750482}
+      \field{series}{FOM-Projektmanagement}
+      \field{title}{Projekte managen: Basiswissen kompakt;[Wissen f{\"u}r Praktiker auf den Punkt gebracht, Schnellleseunterst{\"u}tzung, grafischer Wegweiser, Lernkontrolle]}
+      \field{year}{2006}
+    \endentry
+    \entry{Berbig}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=a389cd061c892c6cc686a04368249c1e}{Berbig}{B\bibinitperiod}{Cathleen}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a389cd061c892c6cc686a04368249c1e}{Berbig}{B\bibinitperiod}{Cathleen}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cathleen Berbig}%
+      }
+      \strng{namehash}{a389cd061c892c6cc686a04368249c1e}
+      \strng{fullhash}{a389cd061c892c6cc686a04368249c1e}
+      \field{sortinit}{B}
+      \field{labeltitle}{Teambildende Ma{\ss}nahmen zur F{\"o}rderung der Gruppenkoh{\"a}sion im Sportspiel Basketball}
+      \field{edition}{1., Aufl.}
+      \field{title}{Teambildende Ma{\ss}nahmen zur F{\"o}rderung der Gruppenkoh{\"a}sion im Sportspiel Basketball}
+      \field{year}{2009}
+      \field{pages}{12\bibrangedash 14}
+      \keyw{berbig, teambildung}
+    \endentry
+    \entry{germanyjugendschutzgesetz}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9140e8bca6c3d4544df0d895353abe7c}{BGBI.}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9140e8bca6c3d4544df0d895353abe7c}{BGBI.}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9140e8bca6c3d4544df0d895353abe7c}
+      \strng{fullhash}{9140e8bca6c3d4544df0d895353abe7c}
+      \field{sortinit}{B}
+      \field{labeltitle}{Jugendschutzgesetz}
+      \field{title}{Jugendschutzgesetz}
+      \field{year}{23. Juli 2002, 31. Oktober 2008}
+    \endentry
+    \entry{bohinc2011fuehrung}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=25d6a3550a04371be0c4d51922e083df}{Bohinc}{B\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=25d6a3550a04371be0c4d51922e083df}{Bohinc}{B\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag}%
+      }
+      \strng{namehash}{25d6a3550a04371be0c4d51922e083df}
+      \strng{fullhash}{25d6a3550a04371be0c4d51922e083df}
+      \field{sortinit}{B}
+      \field{labeltitle}{F{\"u}hrung im Projekt: F{\"u}hrungswissen f{\"u}r Projektleiter}
+      \field{isbn}{9783642226250}
+      \field{title}{F{\"u}hrung im Projekt: F{\"u}hrungswissen f{\"u}r Projektleiter}
+      \field{year}{2011}
+    \endentry
+    \entry{decker2011modellierung}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=14e7bd392765cda662860b2dfef2cc73}{Decker}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=14e7bd392765cda662860b2dfef2cc73}{Decker}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {KIT Scientific Publ.}%
+      }
+      \strng{namehash}{14e7bd392765cda662860b2dfef2cc73}
+      \strng{fullhash}{14e7bd392765cda662860b2dfef2cc73}
+      \field{sortinit}{D}
+      \field{labeltitle}{Modellierung ortsabh{\"a}ngiger Zugriffskontrolle f{\"u}r mobile Gesch{\"a}ftsprozesse}
+      \field{isbn}{9783866447325}
+      \field{series}{Schriftenreihe}
+      \field{title}{Modellierung ortsabh{\"a}ngiger Zugriffskontrolle f{\"u}r mobile Gesch{\"a}ftsprozesse}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://books.google.de/books?id=LDehNA7nuF4C
+      \endverb
+    \endentry
+    \entry{degrell2007ortsabhaengige}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5c9af08728be951ae45a2303ea69b315}{Degrell}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5c9af08728be951ae45a2303ea69b315}{Degrell}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hammer, Patrick, Tanja Hammer, Matthias Knoop, Julius Mittenzwei, Georg Steinbach u. Michael Teltscher. GRIN Verlag GbR}%
+      }
+      \strng{namehash}{5c9af08728be951ae45a2303ea69b315}
+      \strng{fullhash}{5c9af08728be951ae45a2303ea69b315}
+      \field{sortinit}{D}
+      \field{labeltitle}{Ortsabh{\"a}ngige Mobile Dienste und Die Aktuelle Gesetzgebung}
+      \field{isbn}{9783638647281}
+      \field{title}{Ortsabh{\"a}ngige Mobile Dienste und Die Aktuelle Gesetzgebung}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://books.google.de/books?id=HWJyo4aCIT0C
+      \endverb
+    \endentry
+    \entry{dembowski2009lokale}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7115e02e5b85aeb6c77d9681258bc063}{Dembowski}{D\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7115e02e5b85aeb6c77d9681258bc063}{Dembowski}{D\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley Verlag}%
+      }
+      \strng{namehash}{7115e02e5b85aeb6c77d9681258bc063}
+      \strng{fullhash}{7115e02e5b85aeb6c77d9681258bc063}
+      \field{sortinit}{D}
+      \field{labeltitle}{Lokale Netze: Handbuch der kompletten Netzwerktechnik}
+      \field{isbn}{9783827328632}
+      \field{title}{Lokale Netze: Handbuch der kompletten Netzwerktechnik}
+      \field{year}{2009}
+    \endentry
+    \entry{DIN69901}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ce500699ed1957508032ed9f7e435332}{{Deutsches\bibnamedelimb Institut\bibnamedelimb f{\"u}r\bibnamedelimb Normung\bibnamedelimb e.\bibnamedelimi V.}}{D\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ce500699ed1957508032ed9f7e435332}{{Deutsches\bibnamedelimb Institut\bibnamedelimb f{\"u}r\bibnamedelimb Normung\bibnamedelimb e.\bibnamedelimi V.}}{D\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Beuth Verlag}%
+      }
+      \strng{namehash}{ce500699ed1957508032ed9f7e435332}
+      \strng{fullhash}{ce500699ed1957508032ed9f7e435332}
+      \field{sortinit}{D}
+      \field{labeltitle}{DIN 69901 Projektmanagement - Projektmanagementsysteme}
+      \field{title}{DIN 69901 Projektmanagement - Projektmanagementsysteme}
+      \field{year}{2009}
+      \keyw{DIN, 69901}
+    \endentry
+    \entry{diethelm2000projektmanagement}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=92653679b8240c0dd281911f6aaeb3cd}{Diethelm}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=92653679b8240c0dd281911f6aaeb3cd}{Diethelm}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag Neue Wirtschafts-Briefe}%
+      }
+      \strng{namehash}{92653679b8240c0dd281911f6aaeb3cd}
+      \strng{fullhash}{92653679b8240c0dd281911f6aaeb3cd}
+      \field{sortinit}{D}
+      \field{labeltitle}{Projektmanagement: Grundlagen : Kennzeichen erfolgreicher Projektabwicklung ; Aufbau und Ablauf des Projektmanagements ; Planung, {\"U}berwachung und Steuerung von Projekten}
+      \field{isbn}{9783482511714}
+      \field{series}{Betriebswirtschaft in Studium und Praxis}
+      \field{title}{Projektmanagement: Grundlagen : Kennzeichen erfolgreicher Projektabwicklung ; Aufbau und Ablauf des Projektmanagements ; Planung, {\"U}berwachung und Steuerung von Projekten}
+      \field{year}{2000}
+    \endentry
+    \entry{diethelm2001projektmanagement}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=92653679b8240c0dd281911f6aaeb3cd}{Diethelm}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=92653679b8240c0dd281911f6aaeb3cd}{Diethelm}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Verl. Neue Wirtschafts-Briefe}%
+      }
+      \strng{namehash}{92653679b8240c0dd281911f6aaeb3cd}
+      \strng{fullhash}{92653679b8240c0dd281911f6aaeb3cd}
+      \field{sortinit}{D}
+      \field{labeltitle}{Projektmanagement: Sonderfragen : Personalmanagement in Projekten, Qualit{\"a}tssicherung und Projektkontrolle, Besonderheiten des strategischen und internationalen Projektmanagements}
+      \field{isbn}{9783482514012}
+      \field{series}{Projektmanagement}
+      \field{title}{Projektmanagement: Sonderfragen : Personalmanagement in Projekten, Qualit{\"a}tssicherung und Projektkontrolle, Besonderheiten des strategischen und internationalen Projektmanagements}
+      \field{year}{2001}
+    \endentry
+    \entry{duden2012Management}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c45e241bcca4afb9229f313ad192af74}{Duden}{D\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c45e241bcca4afb9229f313ad192af74}{Duden}{D\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {German}%
+      }
+      \list{publisher}{1}{%
+        {Bibliographisches Institut GmbH}%
+      }
+      \strng{namehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{fullhash}{c45e241bcca4afb9229f313ad192af74}
+      \field{sortinit}{D}
+      \field{labeltitle}{Stichwort: Management}
+      \field{title}{Stichwort: Management}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.duden.de/node/673152/revisions/890931/view
+      \endverb
+    \endentry
+    \entry{duschinski2007web}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1b38880b372a3cecdaeb4f32f703bf31}{Duschinski}{D\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1b38880b372a3cecdaeb4f32f703bf31}{Duschinski}{D\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Diplomica Verlag}%
+      }
+      \strng{namehash}{1b38880b372a3cecdaeb4f32f703bf31}
+      \strng{fullhash}{1b38880b372a3cecdaeb4f32f703bf31}
+      \field{sortinit}{D}
+      \field{labeltitle}{Web 2.0: Chancen und Risiken f{\"u}r die Unternehmenskommunikation}
+      \field{isbn}{9783836653190}
+      \field{title}{Web 2.0: Chancen und Risiken f{\"u}r die Unternehmenskommunikation}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://books.google.de/books?id=0Bfw6Wi8a4EC
+      \endverb
+    \endentry
+    \entry{dye2008netzwerkgrundlagen}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=f85b191c047499faf131c75361fd5eb2}{Dye}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ce491e67bc6fca2b28448c1eb53665b8}{McDonald}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b8619e54d73e46e0701069cadf5ca38e}{Rufi}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f85b191c047499faf131c75361fd5eb2}{Dye}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ce491e67bc6fca2b28448c1eb53665b8}{McDonald}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b8619e54d73e46e0701069cadf5ca38e}{Rufi}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley Verlag}%
+      }
+      \strng{namehash}{10c17e3a5af4bcdf1d5ea349b1a8a264}
+      \strng{fullhash}{10c17e3a5af4bcdf1d5ea349b1a8a264}
+      \field{sortinit}{D}
+      \field{labeltitle}{Netzwerkgrundlagen- CCNA Exploration Companion Guide}
+      \field{isbn}{9783827326850}
+      \field{series}{Cisco Press}
+      \field{title}{Netzwerkgrundlagen- CCNA Exploration Companion Guide}
+      \field{year}{2008}
+    \endentry
+    \entry{ebenh2008verbale}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=be61e0cdb6cb1dd2daa0b60f587afc6a}{Ebenh{\"o}h}{E\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=be61e0cdb6cb1dd2daa0b60f587afc6a}{Ebenh{\"o}h}{E\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GRIN Verlag GmbH}%
+      }
+      \strng{namehash}{be61e0cdb6cb1dd2daa0b60f587afc6a}
+      \strng{fullhash}{be61e0cdb6cb1dd2daa0b60f587afc6a}
+      \field{sortinit}{E}
+      \field{labeltitle}{Verbale und nonverbale Aspekte der Kommunikation bei G. H. Mead}
+      \field{isbn}{9783638010047}
+      \field{title}{Verbale und nonverbale Aspekte der Kommunikation bei G. H. Mead}
+      \field{year}{2008}
+      \keyw{kommunikation}
+    \endentry
+    \entry{iee8023afpss}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cfd4d7b0b865614f06a82fcd01f73abb}{Edwards}{E\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cfd4d7b0b865614f06a82fcd01f73abb}{Edwards}{E\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cfd4d7b0b865614f06a82fcd01f73abb}
+      \strng{fullhash}{cfd4d7b0b865614f06a82fcd01f73abb}
+      \field{sortinit}{E}
+      \field{labeltitle}{IEEE 802.3af DTE Power Supply Specification}
+      \field{title}{IEEE 802.3af DTE Power Supply Specification}
+      \field{year}{2000}
+      \verb{url}
+      \verb http://www.ieee802.org/3/power_study/public/email_attach/DTE_pwr_spec.pdf
+      \endverb
+    \endentry
+    \entry{Eigner2009}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=b1e44fd116121c12ca5d2b9a278ae1cb}{Eigner}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb440bae56484c0f41d39d9760a7f8d5}{Stelzer}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b1e44fd116121c12ca5d2b9a278ae1cb}{Eigner}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb440bae56484c0f41d39d9760a7f8d5}{Stelzer}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{403d61a22dd59ff18b44a55a13b32925}
+      \strng{fullhash}{403d61a22dd59ff18b44a55a13b32925}
+      \field{sortinit}{E}
+      \field{labeltitle}{Product Lifecycle Management: Ein Leitfaden f{\"u}r Product Development und Life Cycle Management}
+      \field{isbn}{9783540443735}
+      \field{title}{Product Lifecycle Management: Ein Leitfaden f{\"u}r Product Development und Life Cycle Management}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://books.google.de/books?id=HpzIHvOXXDQC
+      \endverb
+    \endentry
+    \entry{eigner2009product}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=b1e44fd116121c12ca5d2b9a278ae1cb}{Eigner}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb440bae56484c0f41d39d9760a7f8d5}{Stelzer}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b1e44fd116121c12ca5d2b9a278ae1cb}{Eigner}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eb440bae56484c0f41d39d9760a7f8d5}{Stelzer}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{403d61a22dd59ff18b44a55a13b32925}
+      \strng{fullhash}{403d61a22dd59ff18b44a55a13b32925}
+      \field{sortinit}{E}
+      \field{labeltitle}{Product Lifecycle Management: Ein Leitfaden f{\"u}r Product Development und Life Cycle Management}
+      \field{isbn}{9783540443735}
+      \field{title}{Product Lifecycle Management: Ein Leitfaden f{\"u}r Product Development und Life Cycle Management}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://books.google.de/books?id=HpzIHvOXXDQC
+      \endverb
+    \endentry
+    \entry{eitzinger2007autoboardcomputer}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=dc3c3fc53a2af2ed5532df5d80222a37}{Eitzinger}{E\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=dc3c3fc53a2af2ed5532df5d80222a37}{Eitzinger}{E\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GRIN Verlag}%
+      }
+      \strng{namehash}{dc3c3fc53a2af2ed5532df5d80222a37}
+      \strng{fullhash}{dc3c3fc53a2af2ed5532df5d80222a37}
+      \field{sortinit}{E}
+      \field{labeltitle}{Der Autoboardcomputer als zentrales Tool f{\"u}r Location-Based-Services. Zur Akzeptanz von BMW Connected-Drive in {\"O}sterreich}
+      \field{isbn}{9783638717717}
+      \field{title}{Der Autoboardcomputer als zentrales Tool f{\"u}r Location-Based-Services. Zur Akzeptanz von BMW Connected-Drive in {\"O}sterreich}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://books.google.de/books?id=Ndu%5C_xzCM4OoC
+      \endverb
+    \endentry
+    \entry{heise2003jugendschutzfilter}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0df8579b8fb8ad1e1795d9a9dab78db5}{Ermert}{E\bibinitperiod}{Monika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0df8579b8fb8ad1e1795d9a9dab78db5}{Ermert}{E\bibinitperiod}{Monika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0df8579b8fb8ad1e1795d9a9dab78db5}
+      \strng{fullhash}{0df8579b8fb8ad1e1795d9a9dab78db5}
+      \field{sortinit}{E}
+      \field{labeltitle}{Gutachten: Unzureichender Jugendschutz durch Filtersysteme}
+      \field{journaltitle}{heise.de}
+      \field{title}{Gutachten: Unzureichender Jugendschutz durch Filtersysteme}
+      \field{year}{2003}
+      \verb{url}
+      \verb http://www.heise.de/newsticker/meldung/Gutachten-Unzureichender-Jugendschutz-durch-Filtersysteme-77129.html
+      \endverb
+    \endentry
+    \entry{heise2007jugendschutzfilter}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0df8579b8fb8ad1e1795d9a9dab78db5}{Ermert}{E\bibinitperiod}{Monika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0df8579b8fb8ad1e1795d9a9dab78db5}{Ermert}{E\bibinitperiod}{Monika}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0df8579b8fb8ad1e1795d9a9dab78db5}
+      \strng{fullhash}{0df8579b8fb8ad1e1795d9a9dab78db5}
+      \field{sortinit}{E}
+      \field{labeltitle}{Schlechte Noten f{\"u}r Internet-Jugendschutzfilter}
+      \field{journaltitle}{heise.de}
+      \field{title}{Schlechte Noten f{\"u}r Internet-Jugendschutzfilter}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://www.heise.de/newsticker/meldung/Schlechte-Noten-fuer-Internet-Jugendschutzfilter-152060.html
+      \endverb
+    \endentry
+    \entry{ertugrul2011erlaeuterung}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1add10badeddf5fe2e7e4ae77fd58479}{Ertugrul}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1add10badeddf5fe2e7e4ae77fd58479}{Ertugrul}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GRIN Verlag}%
+      }
+      \strng{namehash}{1add10badeddf5fe2e7e4ae77fd58479}
+      \strng{fullhash}{1add10badeddf5fe2e7e4ae77fd58479}
+      \field{sortinit}{E}
+      \field{labeltitle}{Erl{\"a}uterung des API-Ansatzes}
+      \field{isbn}{9783640825226}
+      \field{title}{Erl{\"a}uterung des API-Ansatzes}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://books.google.de/books?id=meKgAOx7bqIC
+      \endverb
+    \endentry
+    \entry{finkenzeller2008rfid}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=04c5bdf79e8ad62dcc1a2c321318b147}{Finkenzeller}{F\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=04c5bdf79e8ad62dcc1a2c321318b147}{Finkenzeller}{F\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hanser}%
+      }
+      \strng{namehash}{04c5bdf79e8ad62dcc1a2c321318b147}
+      \strng{fullhash}{04c5bdf79e8ad62dcc1a2c321318b147}
+      \field{sortinit}{F}
+      \field{labeltitle}{RFID-Handbuch: Grundlagen und praktische Anwendungen von Transpondern, kontaktlosen Chipkarten und NFC}
+      \field{isbn}{9783446412002}
+      \field{title}{RFID-Handbuch: Grundlagen und praktische Anwendungen von Transpondern, kontaktlosen Chipkarten und NFC}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://books.google.de/books?id=49HTBDrfqFUC
+      \endverb
+    \endentry
+    \entry{iee8023af}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=30f493980ba4a5c0ecb22b06283ca2a5}{Force}{F\bibinitperiod}{802.3af\bibnamedelima Task}{8\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=30f493980ba4a5c0ecb22b06283ca2a5}{Force}{F\bibinitperiod}{802.3af\bibnamedelima Task}{8\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{30f493980ba4a5c0ecb22b06283ca2a5}
+      \strng{fullhash}{30f493980ba4a5c0ecb22b06283ca2a5}
+      \field{sortinit}{F}
+      \field{labeltitle}{IEEE P802.3af DTE Power via MDI Task Force}
+      \field{title}{IEEE P802.3af DTE Power via MDI Task Force}
+      \field{year}{2003}
+      \verb{url}
+      \verb http://www.ieee802.org/3/af/index.html
+      \endverb
+    \endentry
+    \entry{freidinger2004geschaeftsprozesse}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba2e51c52bd6f4d3c0d6943e7675f3d}{Freidinger}{F\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba2e51c52bd6f4d3c0d6943e7675f3d}{Freidinger}{F\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GRIN Verlag}%
+      }
+      \strng{namehash}{8ba2e51c52bd6f4d3c0d6943e7675f3d}
+      \strng{fullhash}{8ba2e51c52bd6f4d3c0d6943e7675f3d}
+      \field{sortinit}{F}
+      \field{labeltitle}{Gesch{\"a}ftsprozesse im Unternehmen - Teil 4 - Managen und Optimieren von Prozessen}
+      \field{isbn}{9783638285636}
+      \field{title}{Gesch{\"a}ftsprozesse im Unternehmen - Teil 4 - Managen und Optimieren von Prozessen}
+      \field{year}{2004}
+      \verb{url}
+      \verb http://books.google.de/books?id=GGLsWUsO52AC
+      \endverb
+    \endentry
+    \entry{frey2009rechtliche}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=4ff72761b9abc4809bf1c960308e5562}{Frey}{F\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=136cab7bf0a1b5411685189fdc2e1969}{Rudolph}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4ff72761b9abc4809bf1c960308e5562}{Frey}{F\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=136cab7bf0a1b5411685189fdc2e1969}{Rudolph}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Books on Demand GmbH}%
+      }
+      \strng{namehash}{d7819012ce5312c25bffbdab6258c650}
+      \strng{fullhash}{d7819012ce5312c25bffbdab6258c650}
+      \field{sortinit}{F}
+      \field{labeltitle}{Rechtliche Evaluierung des Jugendmedienschutz-Staatsvertrags}
+      \field{isbn}{9783839117057}
+      \field{title}{Rechtliche Evaluierung des Jugendmedienschutz-Staatsvertrags}
+      \field{year}{2009}
+    \endentry
+    \entry{gartner2007location}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=79f5d83af269302921ada5177630c87f}{Gartner}{G\bibinitperiod}{G.F.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=27056efae5a8e03b9dde23a2effc1885}{Cartwright}{C\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=0b029a9ec44715d0f584fe00a8d9ca8d}{Peterson}{P\bibinitperiod}{M.P.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=79f5d83af269302921ada5177630c87f}{Gartner}{G\bibinitperiod}{G.F.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=27056efae5a8e03b9dde23a2effc1885}{Cartwright}{C\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=0b029a9ec44715d0f584fe00a8d9ca8d}{Peterson}{P\bibinitperiod}{M.P.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag Berlin Heidelberg}%
+      }
+      \strng{namehash}{3ca5e8df70af2978cf40ee170124f0ec}
+      \strng{fullhash}{3ca5e8df70af2978cf40ee170124f0ec}
+      \field{sortinit}{G}
+      \field{labeltitle}{Location Based Services and TeleCartography}
+      \field{isbn}{9783540367284}
+      \field{number}{Bd. 1}
+      \field{series}{Lecture notes in geoinformation and cartography}
+      \field{title}{Location Based Services and TeleCartography}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://books.google.de/books?id=fkFg%5C_h5prDoC
+      \endverb
+    \endentry
+    \entry{gast2005802}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=97044c17912481077381eb699ed93b19}{Gast}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=97044c17912481077381eb699ed93b19}{Gast}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly}%
+      }
+      \strng{namehash}{97044c17912481077381eb699ed93b19}
+      \strng{fullhash}{97044c17912481077381eb699ed93b19}
+      \field{sortinit}{G}
+      \field{labeltitle}{802.11 Wireless Networks: The Definitive Guide}
+      \field{isbn}{9780596100520}
+      \field{series}{Definitive Guide Series}
+      \field{title}{802.11 Wireless Networks: The Definitive Guide}
+      \field{year}{2005}
+    \endentry
+    \entry{gehring1998}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=67177dc4dbc2765d87bb9cedaad104fe}{Gehring}{G\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=67177dc4dbc2765d87bb9cedaad104fe}{Gehring}{G\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{67177dc4dbc2765d87bb9cedaad104fe}
+      \strng{fullhash}{67177dc4dbc2765d87bb9cedaad104fe}
+      \field{sortinit}{G}
+      \field{labeltitle}{Betriebliche Anwendungssysteme, Kurs 00825, Integrierte betriebliche Informationsverarbeitung}
+      \field{howpublished}{Fernuniversit{\"a}t Hagen}
+      \field{title}{Betriebliche Anwendungssysteme, Kurs 00825, Integrierte betriebliche Informationsverarbeitung}
+      \field{year}{1998}
+    \endentry
+    \entry{gier2006wlan}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0b091bea270b4cc9f13ccf717defde40}{Gier}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0b091bea270b4cc9f13ccf717defde40}{Gier}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Unika-Fachverl.}%
+      }
+      \strng{namehash}{0b091bea270b4cc9f13ccf717defde40}
+      \strng{fullhash}{0b091bea270b4cc9f13ccf717defde40}
+      \field{sortinit}{G}
+      \field{labeltitle}{WLAN und Hotspot Know How}
+      \field{isbn}{9783981124309}
+      \field{title}{WLAN und Hotspot Know How}
+      \field{year}{2006}
+    \endentry
+    \entry{computerwoche200618}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a74720ff2c4aab74d99cdc962ec969b7}{Giesen}{G\bibinitperiod}{Hartmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a74720ff2c4aab74d99cdc962ec969b7}{Giesen}{G\bibinitperiod}{Hartmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a74720ff2c4aab74d99cdc962ec969b7}
+      \strng{fullhash}{a74720ff2c4aab74d99cdc962ec969b7}
+      \field{sortinit}{G}
+      \field{labeltitle}{Ein sicheres Netz f{\"u}r vier Firmen}
+      \field{journaltitle}{Computerwoche}
+      \field{title}{Ein sicheres Netz f{\"u}r vier Firmen}
+      \field{volume}{18}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://www.computerwoche.de/heftarchiv/2006/18/1214406/
+      \endverb
+      \warn{\item Invalid format '28.04.2006' of date field 'urldate' in entry 'computerwoche200618' - ignoring}
+    \endentry
+    \entry{glympse}{url}{}
+      \name{labelname}{1}{}{%
+        {{hash=085dddc15b392d626245138797353724}{Glympse}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=085dddc15b392d626245138797353724}{Glympse}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{085dddc15b392d626245138797353724}
+      \strng{fullhash}{085dddc15b392d626245138797353724}
+      \field{sortinit}{G}
+      \field{labeltitle}{Glympse - Location Sharing}
+      \field{title}{Glympse - Location Sharing}
+    \endentry
+    \entry{gglmapsapi}{url}{}
+      \name{labelname}{1}{}{%
+        {{hash=8b36e9207c24c76e6719268e49201d94}{Google}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8b36e9207c24c76e6719268e49201d94}{Google}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{labeltitle}{Google Maps API}
+      \field{title}{Google Maps API}
+    \endentry
+    \entry{gopi2005global}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=3cc77499c40d5401040c9cc00473ffae}{Gopi}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3cc77499c40d5401040c9cc00473ffae}{Gopi}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Tata Mcgraw-Hill Publishing Company Limited}%
+      }
+      \strng{namehash}{3cc77499c40d5401040c9cc00473ffae}
+      \strng{fullhash}{3cc77499c40d5401040c9cc00473ffae}
+      \field{sortinit}{G}
+      \field{labeltitle}{Global Positioning System: Principles And Applications}
+      \field{isbn}{9780070585997}
+      \field{series}{McGraw-Hill civil engineering series}
+      \field{title}{Global Positioning System: Principles And Applications}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://books.google.de/books?id=caK3mhGyKVsC
+      \endverb
+    \endentry
+    \entry{afphandy2012}{other}{}
+      \name{labelname}{1}{}{%
+        {{hash=b9202574109cb954f95c3705d9f5400c}{Handelsblatt}{H\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b9202574109cb954f95c3705d9f5400c}{Handelsblatt}{H\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{b9202574109cb954f95c3705d9f5400c}
+      \strng{fullhash}{b9202574109cb954f95c3705d9f5400c}
+      \field{sortinit}{H}
+      \field{labeltitle}{112 Millionen aktive Handy in Deutschland}
+      \field{annotation}{Artikel aus Quellen der AFP.}
+      \field{title}{112 Millionen aktive Handy in Deutschland}
+      \verb{url}
+      \verb http://www.handelsblatt.com/technologie/it-tk/mobile-welt/neuer-rekord-112-millionen-aktive-handy-in-deutschland/6256418.html#hcf-add-comment-id
+      \endverb
+      \warn{\item Invalid format '26.02.2013' of date field 'urldate' in entry 'afphandy2012' - ignoring}
+    \endentry
+    \entry{herrmann2009ganzheitliches}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=79ab95e7222b9855b8270f00f3062ec9}{Herrmann}{H\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=79ab95e7222b9855b8270f00f3062ec9}{Herrmann}{H\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{79ab95e7222b9855b8270f00f3062ec9}
+      \strng{fullhash}{79ab95e7222b9855b8270f00f3062ec9}
+      \field{sortinit}{H}
+      \field{labeltitle}{Ganzheitliches Life Cycle Management: Nachhaltigkeit und Lebenszyklusorientierung in Unternehmen}
+      \field{isbn}{9783642014208}
+      \field{series}{VDI-Buch}
+      \field{title}{Ganzheitliches Life Cycle Management: Nachhaltigkeit und Lebenszyklusorientierung in Unternehmen}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://books.google.de/books?id=aSmtxCFTh80C
+      \endverb
+    \endentry
+    \entry{hoffmann2010data}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d3987b0af15fae2d968900bf6bd6c9b7}{Hoffmann}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d3987b0af15fae2d968900bf6bd6c9b7}{Hoffmann}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Diplomica Verlag Gmbh}%
+      }
+      \strng{namehash}{d3987b0af15fae2d968900bf6bd6c9b7}
+      \strng{fullhash}{d3987b0af15fae2d968900bf6bd6c9b7}
+      \field{sortinit}{H}
+      \field{labeltitle}{Data Warehouse Im Rahmen Der Business Intelligence: Konzeption Eines Vorgehensmodells}
+      \field{isbn}{9783836695930}
+      \field{title}{Data Warehouse Im Rahmen Der Business Intelligence: Konzeption Eines Vorgehensmodells}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://books.google.de/books?id=3CAapfakLTkC
+      \endverb
+    \endentry
+    \entry{hohm2000soziale}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=6983275f2d77b8397c245f7952b8b806}{Hohm}{H\bibinitperiod}{H.J.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6983275f2d77b8397c245f7952b8b806}{Hohm}{H\bibinitperiod}{H.J.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Juventa-Verlag}%
+      }
+      \strng{namehash}{6983275f2d77b8397c245f7952b8b806}
+      \strng{fullhash}{6983275f2d77b8397c245f7952b8b806}
+      \field{sortinit}{H}
+      \field{labeltitle}{Soziale Systeme, Kommunikation, Mensch: Eine Einf{\"u}hrung in soziologische Systemtheorie}
+      \field{isbn}{9783779907572}
+      \field{series}{Grundlagentexte Soziale Berufe}
+      \field{title}{Soziale Systeme, Kommunikation, Mensch: Eine Einf{\"u}hrung in soziologische Systemtheorie}
+      \field{year}{2000}
+      \keyw{kommunikation, sozial}
+    \endentry
+    \entry{ymmbkillerapp}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ec86d518533f6798a8ad235d21956e40}{Hubschneider}{H\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5352955095292b518eea2e5f1a1c37d1}{K{\"o}lmel}{K\bibinitperiod}{Bernhard}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ec86d518533f6798a8ad235d21956e40}{Hubschneider}{H\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5352955095292b518eea2e5f1a1c37d1}{K{\"o}lmel}{K\bibinitperiod}{Bernhard}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c3c4c55235e3286d7e9dcf0433d29774}
+      \strng{fullhash}{c3c4c55235e3286d7e9dcf0433d29774}
+      \field{sortinit}{H}
+      \field{labeltitle}{Mobile Business - Location Based Services als Killerapplikation}
+      \field{journaltitle}{e-lba.com}
+      \field{title}{Mobile Business - Location Based Services als Killerapplikation}
+      \field{year}{2002}
+    \endentry
+    \entry{iee8023s1}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=472abfae8142fdb6f39d081303e8af85}{IEEE}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=472abfae8142fdb6f39d081303e8af85}{IEEE}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{472abfae8142fdb6f39d081303e8af85}
+      \strng{fullhash}{472abfae8142fdb6f39d081303e8af85}
+      \field{sortinit}{I}
+      \field{labeltitle}{802.3 Section 1}
+      \field{title}{802.3 Section 1}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://standards.ieee.org/getieee802/download/802.3-2008_section1.pdf
+      \endverb
+    \endentry
+    \entry{iee8023s2}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=472abfae8142fdb6f39d081303e8af85}{IEEE}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=472abfae8142fdb6f39d081303e8af85}{IEEE}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{472abfae8142fdb6f39d081303e8af85}
+      \strng{fullhash}{472abfae8142fdb6f39d081303e8af85}
+      \field{sortinit}{I}
+      \field{labeltitle}{802.3 Section 2}
+      \field{title}{802.3 Section 2}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://standards.ieee.org/getieee802/download/802.3-2008_section2.pdf
+      \endverb
+    \endentry
+    \entry{kercher2002nonverbale}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f19a4f31e221a299ab24513571c2c504}{Kercher}{K\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f19a4f31e221a299ab24513571c2c504}{Kercher}{K\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GRIN Verlag GmbH}%
+      }
+      \strng{namehash}{f19a4f31e221a299ab24513571c2c504}
+      \strng{fullhash}{f19a4f31e221a299ab24513571c2c504}
+      \field{sortinit}{K}
+      \field{labeltitle}{Nonverbale Kommunikation}
+      \field{isbn}{9783638119863}
+      \field{title}{Nonverbale Kommunikation}
+      \field{year}{2002}
+    \endentry
+    \entry{kersten2012mobile}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=28c042b4ebca92a1e6586265155de71c}{Kersten}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=64e4251bd3e880795e433bbe143ac249}{Klett}{K\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28c042b4ebca92a1e6586265155de71c}{Kersten}{K\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=64e4251bd3e880795e433bbe143ac249}{Klett}{K\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {mitp-Verlag}%
+      }
+      \strng{namehash}{a8371f8b0d4071362c275291538e60bd}
+      \strng{fullhash}{a8371f8b0d4071362c275291538e60bd}
+      \field{sortinit}{K}
+      \field{labeltitle}{Mobile Device Management}
+      \field{isbn}{9783826692147}
+      \field{series}{mitp Professional}
+      \field{title}{Mobile Device Management}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://books.google.de/books?id=FEzbJ5ZvQmAC
+      \endverb
+    \endentry
+    \entry{kral2006wlan}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c763c05ebb2beaf871587066453cabd7}{Kral}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c763c05ebb2beaf871587066453cabd7}{Kral}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Franzis}%
+      }
+      \strng{namehash}{c763c05ebb2beaf871587066453cabd7}
+      \strng{fullhash}{c763c05ebb2beaf871587066453cabd7}
+      \field{sortinit}{K}
+      \field{labeltitle}{WLAN f{\"u}r Schnelleinsteiger}
+      \field{isbn}{9783772364983}
+      \field{series}{Franzis echt einfach}
+      \field{title}{WLAN f{\"u}r Schnelleinsteiger}
+      \field{year}{2006}
+    \endentry
+    \entry{kulbe2009grundwissen}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f0d60f02bf1071f20d3aeb208ead817c}{Kulbe}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f0d60f02bf1071f20d3aeb208ead817c}{Kulbe}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Kohlhammer}%
+      }
+      \strng{namehash}{f0d60f02bf1071f20d3aeb208ead817c}
+      \strng{fullhash}{f0d60f02bf1071f20d3aeb208ead817c}
+      \field{sortinit}{K}
+      \field{labeltitle}{Grundwissen Psychologie, Soziologie und P{\"a}dagogik: Lehrbuch f{\"u}r Pflegeberufe}
+      \field{isbn}{9783170208032}
+      \field{series}{Kohlhammer Pflege}
+      \field{title}{Grundwissen Psychologie, Soziologie und P{\"a}dagogik: Lehrbuch f{\"u}r Pflegeberufe}
+      \field{year}{2009}
+    \endentry
+    \entry{kuepper2005location}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=621ddaffbb80b3765ec0383554e93c54}{K{\"u}pper}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=621ddaffbb80b3765ec0383554e93c54}{K{\"u}pper}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{621ddaffbb80b3765ec0383554e93c54}
+      \strng{fullhash}{621ddaffbb80b3765ec0383554e93c54}
+      \field{sortinit}{K}
+      \field{labeltitle}{Location-Based Services: Fundamentals and Operation}
+      \field{isbn}{9780470092323}
+      \field{title}{Location-Based Services: Fundamentals and Operation}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://books.google.de/books?id=-F3-eklYWvwC
+      \endverb
+    \endentry
+    \entry{kurose2008computernetzwerke}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=d4110822aca2bda8804711462ad0b57d}{Kurose}{K\bibinitperiod}{J.F.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=18bab839200500eb009454ad31cfc070}{Ross}{R\bibinitperiod}{K.W.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d4110822aca2bda8804711462ad0b57d}{Kurose}{K\bibinitperiod}{J.F.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=18bab839200500eb009454ad31cfc070}{Ross}{R\bibinitperiod}{K.W.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Studium}%
+      }
+      \strng{namehash}{2a8735db17f13c0102dc58f8b2bb36f4}
+      \strng{fullhash}{2a8735db17f13c0102dc58f8b2bb36f4}
+      \field{sortinit}{K}
+      \field{labeltitle}{Computernetzwerke: Der Top-Down-Ansatz}
+      \field{isbn}{9783827373304}
+      \field{series}{IT - Informatik}
+      \field{title}{Computernetzwerke: Der Top-Down-Ansatz}
+      \field{year}{2008}
+    \endentry
+    \entry{kuster2011handbuch}{book}{}
+      \name{labelname}{7}{}{%
+        {{hash=25962a42435d30b6692ac4a765903d82}{Kuster}{K\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2fae0bd38419ef94ba9d75aef0302f10}{Huber}{H\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=773b4baa8cd84e6a1851cfc2bb316051}{Lippmann}{L\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=54e0d55c5b46489b99a24786986e086b}{Schmid}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=af55da28b4c6261d9d5098e2e5275e24}{Schneider}{S\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=45629f7207b843840e1a208ad9ed0321}{Witschi}{W\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=21e8ea46551084b93b891d06624b488e}{W{\"u}st}{W\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=25962a42435d30b6692ac4a765903d82}{Kuster}{K\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2fae0bd38419ef94ba9d75aef0302f10}{Huber}{H\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=773b4baa8cd84e6a1851cfc2bb316051}{Lippmann}{L\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=54e0d55c5b46489b99a24786986e086b}{Schmid}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=af55da28b4c6261d9d5098e2e5275e24}{Schneider}{S\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=45629f7207b843840e1a208ad9ed0321}{Witschi}{W\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=21e8ea46551084b93b891d06624b488e}{W{\"u}st}{W\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag GmbH}%
+      }
+      \strng{namehash}{767be4c429bf50c49c14cc32d5d2ee7e}
+      \strng{fullhash}{618feb4c3a118f35c9d315abf196e111}
+      \field{sortinit}{K}
+      \field{labeltitle}{Handbuch Projektmanagement}
+      \field{isbn}{9783642212420}
+      \field{series}{SpringerLink : B{\"u}cher}
+      \field{title}{Handbuch Projektmanagement}
+      \field{year}{2011}
+    \endentry
+    \entry{ladengruber2012mobile}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=6ee1d5201fb3dbc03e65efb77b3c72b3}{Ladengruber}{L\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6ee1d5201fb3dbc03e65efb77b3c72b3}{Ladengruber}{L\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GRIN Verlag}%
+      }
+      \strng{namehash}{6ee1d5201fb3dbc03e65efb77b3c72b3}
+      \strng{fullhash}{6ee1d5201fb3dbc03e65efb77b3c72b3}
+      \field{sortinit}{L}
+      \field{labeltitle}{Mobile Erfassung von Instandhaltungsmeldungen in komplexen Organisationen im Zusammenhang mit SAP als ERP System}
+      \field{isbn}{9783656130376}
+      \field{title}{Mobile Erfassung von Instandhaltungsmeldungen in komplexen Organisationen im Zusammenhang mit SAP als ERP System}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://books.google.de/books?id=yffxghj55Y8C
+      \endverb
+    \endentry
+    \entry{lbsruwe2013}{online}{}
+      \list{language}{1}{%
+        {Deutsch}%
+      }
+      \field{sortinit}{L}
+      \field{labeltitle}{LBS heute: 2 kg schwer, 6 cm hoch}
+      \field{month}{02}
+      \field{title}{LBS heute: 2 kg schwer, 6 cm hoch}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://www.mobile-zeitgeist.com/2013/02/28/lbs-heute-2-kg-schwer-6-cm-hoch/
+      \endverb
+    \endentry
+    \entry{lerg2002grosse}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=77547831778cd84f7b1bbfe81a9df4b2}{Lerg}{L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=db23c69bb50f0a41db9dccb5b1229107}{Stolz}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=77547831778cd84f7b1bbfe81a9df4b2}{Lerg}{L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=db23c69bb50f0a41db9dccb5b1229107}{Stolz}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Data Becker}%
+      }
+      \strng{namehash}{5172c82967e5072e1eb585eb93a51265}
+      \strng{fullhash}{5172c82967e5072e1eb585eb93a51265}
+      \field{sortinit}{L}
+      \field{labeltitle}{Das gro{\ss}e Buch Wireless LAN \& Bluetooth}
+      \field{isbn}{9783815825006}
+      \field{title}{Das gro{\ss}e Buch Wireless LAN \& Bluetooth}
+      \field{year}{2002}
+    \endentry
+    \entry{litke2007projektmanagement}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f941e415bb9cb9bb17f8690cf6d2c868}{Litke}{L\bibinitperiod}{H.D.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f941e415bb9cb9bb17f8690cf6d2c868}{Litke}{L\bibinitperiod}{H.D.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hanser Fachbuchverlag}%
+      }
+      \strng{namehash}{f941e415bb9cb9bb17f8690cf6d2c868}
+      \strng{fullhash}{f941e415bb9cb9bb17f8690cf6d2c868}
+      \field{sortinit}{L}
+      \field{labeltitle}{Projektmanagement: Methoden, Techniken, Verhaltensweisen. Evolution{\"a}res Projektmanagement}
+      \field{isbn}{9783446409972}
+      \field{title}{Projektmanagement: Methoden, Techniken, Verhaltensweisen. Evolution{\"a}res Projektmanagement}
+      \field{year}{2007}
+    \endentry
+    \entry{liu2011location}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=cf27413bc23396c7c00d356f5fa84c10}{Yang}{Y\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=cf27413bc23396c7c00d356f5fa84c10}{Yang}{Y\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{75ff8dd19cd116c1f79397c4531ebcc7}
+      \strng{fullhash}{75ff8dd19cd116c1f79397c4531ebcc7}
+      \field{sortinit}{L}
+      \field{labeltitle}{Location, Localization, and Localizability: Location-awareness Technology for Wireless Networks}
+      \field{isbn}{9781441973719}
+      \field{title}{Location, Localization, and Localizability: Location-awareness Technology for Wireless Networks}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://books.google.de/books?id=lfQD2xqnLLMC
+      \endverb
+    \endentry
+    \entry{luntovskyy2011planung}{book}{}
+      \name{labelname}{4}{}{%
+        {{hash=3597e45a64a3e2a3f506e3f0d526602c}{Luntovskyy}{L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=930b586c3ce088c725cc60b4b2eea1e7}{Gutter}{G\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=0956e3513f1c7d247a6113c1bd7b036b}{G{\"u}tter}{G\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cd63dc9998914a7ea9d28592405878ef}{Melnyk}{M\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=3597e45a64a3e2a3f506e3f0d526602c}{Luntovskyy}{L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=930b586c3ce088c725cc60b4b2eea1e7}{Gutter}{G\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=0956e3513f1c7d247a6113c1bd7b036b}{G{\"u}tter}{G\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cd63dc9998914a7ea9d28592405878ef}{Melnyk}{M\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg+Teubner Verlag}%
+      }
+      \strng{namehash}{b7874cbc29e5fd0cedcc2ff21ce3e7bc}
+      \strng{fullhash}{15a966d40130dee52f4cab86e2c641ca}
+      \field{sortinit}{L}
+      \field{labeltitle}{Planung und Optimierung von Rechnernetzen: Methoden, Modelle, Tools f{\"u}r Entwurf, Diagnose und Management im Lebenszyklus von drahtgebundenen und drahtlosen Rechnernetzen}
+      \field{isbn}{9783834814586}
+      \field{title}{Planung und Optimierung von Rechnernetzen: Methoden, Modelle, Tools f{\"u}r Entwurf, Diagnose und Management im Lebenszyklus von drahtgebundenen und drahtlosen Rechnernetzen}
+      \field{year}{2011}
+    \endentry
+    \entry{meier2009projektmanagement}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d7a74f2548432d0d408672a5e187d049}{Meier}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d7a74f2548432d0d408672a5e187d049}{Meier}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GABAL Verlag GmbH}%
+      }
+      \strng{namehash}{d7a74f2548432d0d408672a5e187d049}
+      \strng{fullhash}{d7a74f2548432d0d408672a5e187d049}
+      \field{sortinit}{M}
+      \field{labeltitle}{Projektmanagement: Grundlagen, Methoden und Techniken}
+      \field{isbn}{9783869360164}
+      \field{title}{Projektmanagement: Grundlagen, Methoden und Techniken}
+      \field{year}{2009}
+    \endentry
+    \entry{metter2012industrial}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=8289be54c24d0f5e5ef0b3800ee3307b}{Metter}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=23a6cfaef3ff72269db340ad9dfbf043}{Bucher}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=8289be54c24d0f5e5ef0b3800ee3307b}{Metter}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=23a6cfaef3ff72269db340ad9dfbf043}{Bucher}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{87c69e5c9e0309e34c967326ea7f69a3}
+      \strng{fullhash}{87c69e5c9e0309e34c967326ea7f69a3}
+      \field{sortinit}{M}
+      \field{labeltitle}{Industrial Ethernet in der Automatisierungstechnik}
+      \field{isbn}{9783895786891}
+      \field{title}{Industrial Ethernet in der Automatisierungstechnik}
+      \field{year}{2012}
+    \endentry
+    \entry{mssafepwpp}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{Microsoft}{M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{Microsoft}{M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{M}
+      \field{labeltitle}{Tipps zum Erstellen sicherer Kennw{\"o}rter und Passphrasen}
+      \field{title}{Tipps zum Erstellen sicherer Kennw{\"o}rter und Passphrasen}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://windows.microsoft.com/de-de/windows7/Tips-for-creating-strong-passwords-and-passphrases
+      \endverb
+    \endentry
+    \entry{Moehrle2012}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=34517004724ed119a10d4a4253795bb1}{M{\"o}hrle}{M\bibinitperiod}{Prof.\bibnamedelimi Dr.\bibnamedelimi Martin\bibnamedelima G.}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=63cc67891344e976ba1896e478cd1abe}{Specht}{S\bibinitperiod}{Prof.\bibnamedelimi Dr.\bibnamedelimi Dieter}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=34517004724ed119a10d4a4253795bb1}{M{\"o}hrle}{M\bibinitperiod}{Prof.\bibnamedelimi Dr.\bibnamedelimi Martin\bibnamedelima G.}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=63cc67891344e976ba1896e478cd1abe}{Specht}{S\bibinitperiod}{Prof.\bibnamedelimi Dr.\bibnamedelimi Dieter}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag}%
+      }
+      \strng{namehash}{007c29be720dd465f3bd9f49c1157bb7}
+      \strng{fullhash}{007c29be720dd465f3bd9f49c1157bb7}
+      \field{sortinit}{M}
+      \field{labeltitle}{Stichwort: Lebenszyklus}
+      \field{journaltitle}{Gabler Wirtschaftslexikon}
+      \field{title}{Stichwort: Lebenszyklus}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://wirtschaftslexikon.gabler.de/Archiv/55241/lebenszyklus-v7.html
+      \endverb
+    \endentry
+    \entry{molcho96}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=e62b7c5054dba6e262f933af314bc6cd}{Molcho}{M\bibinitperiod}{Samy}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e62b7c5054dba6e262f933af314bc6cd}{Molcho}{M\bibinitperiod}{Samy}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {Deutsch (Unbekannt), Deutsch (Original), Deutsch (Published)}%
+      }
+      \list{publisher}{1}{%
+        {Goldmann Verlag}%
+      }
+      \strng{namehash}{e62b7c5054dba6e262f933af314bc6cd}
+      \strng{fullhash}{e62b7c5054dba6e262f933af314bc6cd}
+      \field{sortinit}{M}
+      \field{labeltitle}{K{\"o}rpersprache}
+      \field{abstract}{T{\"a}glich benutzen wir sie, die K{\"o}rpersprache, die unser elementarstes Kommunkationsmittel ist, und doch sch{\"o}pfen wir bei weitem nicht alle ihre M{\"o}glichkeiten aus. Der ber{\"u}hmte Pantomime Samy Molcho veranschaulicht anhand einmaliger Fotos, was man alles durch Gestik, Mimik und K{\"o}rperhaltung ausdr{\"u}cken kann - ohne ein einziges Wort!}
+      \field{isbn}{3442126673}
+      \field{title}{K{\"o}rpersprache}
+      \field{year}{1996}
+      \field{pages}{256}
+      \keyw{General AAS, K{\"o}rpersprache, Psychologie und Hilfe, B{\"u}cher Trade-In, Taschenbuch, Condition (condition-type), Normale Gr{\"o}{\ss}e, Samy Molcho}
+    \endentry
+    \entry{pashtan2005mobile}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ad3ed6045ad1925d51dd31f0d0d8d860}{Pashtan}{P\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ad3ed6045ad1925d51dd31f0d0d8d860}{Pashtan}{P\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ad3ed6045ad1925d51dd31f0d0d8d860}
+      \strng{fullhash}{ad3ed6045ad1925d51dd31f0d0d8d860}
+      \field{sortinit}{P}
+      \field{labeltitle}{Mobile Web Services}
+      \field{isbn}{9780521830492}
+      \field{title}{Mobile Web Services}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://books.google.de/books?id=7Kd5DrAHyH4C
+      \endverb
+    \endentry
+    \entry{ramachandran2011backtrack}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=aa74289340185b1979910aae48800862}{Ramachandran}{R\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=aa74289340185b1979910aae48800862}{Ramachandran}{R\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing, Limited}%
+      }
+      \strng{namehash}{aa74289340185b1979910aae48800862}
+      \strng{fullhash}{aa74289340185b1979910aae48800862}
+      \field{sortinit}{R}
+      \field{labeltitle}{BackTrack 5 Wireless Penetration Testing Beginner's Guide}
+      \field{isbn}{9781849515580}
+      \field{title}{BackTrack 5 Wireless Penetration Testing Beginner's Guide}
+      \field{year}{2011}
+    \endentry
+    \entry{rogl2010mediation}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=485bbafef601830cc6a8b8881c467ea1}{Rogl}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=485bbafef601830cc6a8b8881c467ea1}{Rogl}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Books on Demand}%
+      }
+      \strng{namehash}{485bbafef601830cc6a8b8881c467ea1}
+      \strng{fullhash}{485bbafef601830cc6a8b8881c467ea1}
+      \field{sortinit}{R}
+      \field{labeltitle}{Mediation \& Nonverbale Kommunikation:}
+      \field{isbn}{9783842341876}
+      \field{title}{Mediation \& Nonverbale Kommunikation:}
+      \field{year}{2010}
+    \endentry
+    \entry{schein2008kommunikation}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=3419007e4fe53d500f3ae6c8832b5c6b}{Schein}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3419007e4fe53d500f3ae6c8832b5c6b}{Schein}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GRIN Verlag GmbH}%
+      }
+      \strng{namehash}{3419007e4fe53d500f3ae6c8832b5c6b}
+      \strng{fullhash}{3419007e4fe53d500f3ae6c8832b5c6b}
+      \field{sortinit}{S}
+      \field{labeltitle}{Kommunikation- Definition, Ablauf, Arten}
+      \field{isbn}{9783640162628}
+      \field{title}{Kommunikation- Definition, Ablauf, Arten}
+      \field{year}{2008}
+      \keyw{kommunikation, studienarbeit}
+    \endentry
+    \entry{schiller2004location}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=cb53ad3b5411285be9b596d4d704d590}{Schiller}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=22698588115075b92fc1fe713708f250}{Voisard}{V\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=cb53ad3b5411285be9b596d4d704d590}{Schiller}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=22698588115075b92fc1fe713708f250}{Voisard}{V\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science}%
+      }
+      \strng{namehash}{06305daec662e693add11acbd8efb46c}
+      \strng{fullhash}{06305daec662e693add11acbd8efb46c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Location-Based Services}
+      \field{isbn}{9780080491721}
+      \field{series}{The Morgan Kaufmann Series in Data Management Systems}
+      \field{title}{Location-Based Services}
+      \field{year}{2004}
+      \verb{url}
+      \verb http://books.google.de/books?id=wj19b5wVfXAC
+      \endverb
+    \endentry
+    \entry{schmidt2007barcode}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=34af6fe3ca182665ee40adccbca3ce49}{Schmidt}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=34af6fe3ca182665ee40adccbca3ce49}{Schmidt}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hammer, Patrick, Tanja Hammer, Matthias Knoop, Julius Mittenzwei, Georg Steinbach u. Michael Teltscher. GRIN Verlag GbR}%
+      }
+      \strng{namehash}{34af6fe3ca182665ee40adccbca3ce49}
+      \strng{fullhash}{34af6fe3ca182665ee40adccbca3ce49}
+      \field{sortinit}{S}
+      \field{labeltitle}{Barcode versus RFID - Eine Gegen{\"u}berstellung der Vor- und Nachteile}
+      \field{isbn}{9783638797320}
+      \field{title}{Barcode versus RFID - Eine Gegen{\"u}berstellung der Vor- und Nachteile}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://books.google.de/books?id=x4qwWxDN2%5C_YC
+      \endverb
+    \endentry
+    \entry{schnabel2009datenschutz}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=99c72e0d5a549ec3b6dd0236dc55da67}{Schnabel}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=99c72e0d5a549ec3b6dd0236dc55da67}{Schnabel}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Kassel University Press}%
+      }
+      \strng{namehash}{99c72e0d5a549ec3b6dd0236dc55da67}
+      \strng{fullhash}{99c72e0d5a549ec3b6dd0236dc55da67}
+      \field{sortinit}{S}
+      \field{labeltitle}{Datenschutz bei profilbasierten Location Based Services. Die datenschutzad{\"a}quate Gestaltung von Service-Plattformen f{\"u}r Mobilkommunikation}
+      \field{isbn}{9783899586985}
+      \field{series}{Forum Wirtschaftsrecht}
+      \field{title}{Datenschutz bei profilbasierten Location Based Services. Die datenschutzad{\"a}quate Gestaltung von Service-Plattformen f{\"u}r Mobilkommunikation}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://books.google.de/books?id=26bIe8SV9cgC
+      \endverb
+    \endentry
+    \entry{schroeder2009supply}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=d2cfc9f0842452d35d7bbf30b84b5f23}{Schr{\"o}der}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b919fcf7ba6e108a76fd8a87ec4aa2}{Der}{D\bibinitperiod}{C.S.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d2cfc9f0842452d35d7bbf30b84b5f23}{Schr{\"o}der}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b919fcf7ba6e108a76fd8a87ec4aa2}{Der}{D\bibinitperiod}{C.S.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hammer, Patrick, Tanja Hammer, Matthias Knoop, Julius Mittenzwei, Georg Steinbach u. Michael Teltscher. GRIN Verlag GbR}%
+      }
+      \strng{namehash}{2b91536472cb186c8f78dc03bbdc39a3}
+      \strng{fullhash}{2b91536472cb186c8f78dc03bbdc39a3}
+      \field{sortinit}{S}
+      \field{labeltitle}{Supply Chain Management: Idee, Aufgaben, Ziele}
+      \field{isbn}{9783640320424}
+      \field{title}{Supply Chain Management: Idee, Aufgaben, Ziele}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://books.google.de/books?id=9Z%5C_UZaQsgN4C
+      \endverb
+    \endentry
+    \entry{sendler2009plm}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=3b606713279598530a5d0cf3a87a8280}{Sendler}{S\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3b606713279598530a5d0cf3a87a8280}{Sendler}{S\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3b606713279598530a5d0cf3a87a8280}
+      \strng{fullhash}{3b606713279598530a5d0cf3a87a8280}
+      \field{sortinit}{S}
+      \field{labeltitle}{Das PLM-Kompendium: Referenzbuch des Produkt-Lebenszyklus-Managements}
+      \field{isbn}{9783540878971}
+      \field{title}{Das PLM-Kompendium: Referenzbuch des Produkt-Lebenszyklus-Managements}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://books.google.de/books?id=-MFxuZe0cNkC
+      \endverb
+    \endentry
+    \entry{stark2011decision}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=4ab71cc369643e15c8a899e4ba7ece6f}{Stark}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4ab71cc369643e15c8a899e4ba7ece6f}{Stark}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer London}%
+      }
+      \strng{namehash}{4ab71cc369643e15c8a899e4ba7ece6f}
+      \strng{fullhash}{4ab71cc369643e15c8a899e4ba7ece6f}
+      \field{sortinit}{S}
+      \field{labeltitle}{Decision Engineering: Product Lifecycle Management: 21st Century Paradigm for Product Realisation}
+      \field{isbn}{9780857295460}
+      \field{series}{Decision Engineering}
+      \field{title}{Decision Engineering: Product Lifecycle Management: 21st Century Paradigm for Product Realisation}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://books.google.de/books?id=q9AdtdDeuPsC
+      \endverb
+    \endentry
+    \entry{kluever2007}{misc}{}
+      \name{labelname}{3}{}{%
+        {{hash=7f78052955f2852dd57c90fc08660678}{Stoica-Kl{\"u}ver}{S\bibinithyphendelim K\bibinitperiod}{Christina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=e3b5e4ce2ecd081ac779e9687174962a}{Kl{\"u}er}{K\bibinitperiod}{J{\"u}rgen}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4960fd33d95b26263e266f2731854539}{Schmidt}{S\bibinitperiod}{J{\"o}rn}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=7f78052955f2852dd57c90fc08660678}{Stoica-Kl{\"u}ver}{S\bibinithyphendelim K\bibinitperiod}{Christina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=e3b5e4ce2ecd081ac779e9687174962a}{Kl{\"u}er}{K\bibinitperiod}{J{\"u}rgen}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4960fd33d95b26263e266f2731854539}{Schmidt}{S\bibinitperiod}{J{\"o}rn}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {Deutsch (Unbekannt), Deutsch (Original), Deutsch (Published)}%
+      }
+      \list{publisher}{1}{%
+        {W3l}%
+      }
+      \strng{namehash}{ddb8b0e1cd86806bf85f93795b61d81c}
+      \strng{fullhash}{ddb8b0e1cd86806bf85f93795b61d81c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Besser und erfolgreicher kommunizieren!: Vortr{\"a}ge, Gespr{\"a}che, Diskussionen}
+      \field{edition}{1}
+      \field{isbn}{393713722X}
+      \field{title}{Besser und erfolgreicher kommunizieren!: Vortr{\"a}ge, Gespr{\"a}che, Diskussionen}
+      \field{year}{2007}
+      \field{pages}{188}
+      \keyw{Erwachsenenbildung, General AAS, Gespr{\"a}chsf{\"u}hrung, K{\"o}rpersprache, B{\"u}cher Trade-In, Taschenbuch, Condition (condition-type), Normale Gr{\"o}{\ss}e}
+    \endentry
+    \entry{stub2010modellierung}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=3bd8135bb78405208ba2ecb95e7d707b}{Stub}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3bd8135bb78405208ba2ecb95e7d707b}{Stub}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hammer, Patrick, Tanja Hammer, Matthias Knoop, Julius Mittenzwei, Georg Steinbach u. Michael Teltscher. GRIN Verlag GbR}%
+      }
+      \strng{namehash}{3bd8135bb78405208ba2ecb95e7d707b}
+      \strng{fullhash}{3bd8135bb78405208ba2ecb95e7d707b}
+      \field{sortinit}{S}
+      \field{labeltitle}{Modellierung eines Gesch{\"a}ftsprozesses zur zentralen elektronischen Verwahrung erbfolgerelevanter Urkunden}
+      \field{isbn}{9783640564200}
+      \field{title}{Modellierung eines Gesch{\"a}ftsprozesses zur zentralen elektronischen Verwahrung erbfolgerelevanter Urkunden}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://books.google.de/books?id=gYzp5a%5C_IdpYC
+      \endverb
+    \endentry
+    \entry{stummer2007global}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=cbd2b92c137dadbb41e305af959b44cf}{Stummer}{S\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cbd2b92c137dadbb41e305af959b44cf}{Stummer}{S\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hammer, Patrick, Tanja Hammer, Matthias Knoop, Julius Mittenzwei, Georg Steinbach u. Michael Teltscher. GRIN Verlag GbR}%
+      }
+      \strng{namehash}{cbd2b92c137dadbb41e305af959b44cf}
+      \strng{fullhash}{cbd2b92c137dadbb41e305af959b44cf}
+      \field{sortinit}{S}
+      \field{labeltitle}{Global Positioning System - Ein {\"U}berblick {\"U}ber Die Funktionsweise Des Gps}
+      \field{isbn}{9783638831253}
+      \field{title}{Global Positioning System - Ein {\"U}berblick {\"U}ber Die Funktionsweise Des Gps}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://books.google.de/books?id=FqHBV99kib0C
+      \endverb
+    \endentry
+    \entry{Svonksvuori2011product}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=6d8423382366b040e384030eaaca21a8}{Svonksvuori}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8ab1ad29a995d042f0b04eed72222c1e}{Immonen}{I\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6d8423382366b040e384030eaaca21a8}{Svonksvuori}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8ab1ad29a995d042f0b04eed72222c1e}{Immonen}{I\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{feb5bbbd62cfc62d9af932411b724fcd}
+      \strng{fullhash}{feb5bbbd62cfc62d9af932411b724fcd}
+      \field{sortinit}{S}
+      \field{labeltitle}{Product Lifecycle Management}
+      \field{isbn}{9783540781721}
+      \field{title}{Product Lifecycle Management}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://books.google.de/books?id=CiHbLm6twJMC
+      \endverb
+    \endentry
+    \entry{volker2005product}{book}{}
+      \name{labelname}{4}{}{%
+        {{hash=8314018f998cbada01eb5aa2459d01cc}{Volker\bibnamedelima Arnold}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=1b1cbfe49ba50a1f57cf1e7a041b3aa6}{Dettmering}{D\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=9bc01cebd3c7bbffed463f8bc05b11b3}{Engel}{E\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=169c555a7f5e7554ce538c53da68b32f}{Karcher}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=8314018f998cbada01eb5aa2459d01cc}{Volker\bibnamedelima Arnold}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=1b1cbfe49ba50a1f57cf1e7a041b3aa6}{Dettmering}{D\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=9bc01cebd3c7bbffed463f8bc05b11b3}{Engel}{E\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=169c555a7f5e7554ce538c53da68b32f}{Karcher}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag GmbH}%
+      }
+      \strng{namehash}{3120c4897107ac1e6eaf03efd8f0fe18}
+      \strng{fullhash}{37e0d855c40583e94de36ab24c0a46a3}
+      \field{sortinit}{V}
+      \field{labeltitle}{Product Lifecycle Management beherrschen: Ein Anwenderhandbuch f{\"u}r den Mittelstand}
+      \field{isbn}{9783540229971}
+      \field{title}{Product Lifecycle Management beherrschen: Ein Anwenderhandbuch f{\"u}r den Mittelstand}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://books.google.de/books?id=OXI6uKZY0uEC
+      \endverb
+    \endentry
+    \entry{wischnewski2001modernes}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=bfd6c2284c577856fb92d00c8d5aa4f9}{Wischnewski}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bfd6c2284c577856fb92d00c8d5aa4f9}{Wischnewski}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg}%
+      }
+      \strng{namehash}{bfd6c2284c577856fb92d00c8d5aa4f9}
+      \strng{fullhash}{bfd6c2284c577856fb92d00c8d5aa4f9}
+      \field{sortinit}{W}
+      \field{labeltitle}{Modernes Projektmanagement}
+      \field{isbn}{9783528651480}
+      \field{title}{Modernes Projektmanagement}
+      \field{year}{2001}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

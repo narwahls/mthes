@@ -1,0 +1,786 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: Cp1252
+
+@BOOK{allsopp2009unauthorised,
+  title = {Unauthorised Access: Physical Penetration Testing For IT Security
+	Teams},
+  publisher = {John Wiley \& Sons},
+  year = {2009},
+  author = {Allsopp, W.},
+  bdsk-url-1 = {http://books.google.de/books?id=3sni%5C_HdNV1QC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9780470747612},
+  lccn = {2010487083},
+  owner = {Fabian},
+  timestamp = {2012.07.21}
+}
+
+@BOOK{bendisch2006projekte,
+  title = {Projekte managen: Basiswissen kompakt;[Wissen f{\"u}r Praktiker auf
+	den Punkt gebracht, Schnellleseunterst{\"u}tzung, grafischer Wegweiser,
+	Lernkontrolle]},
+  publisher = {MA, Akad.-Verlag},
+  year = {2006},
+  author = {Bendisch, R. and Kern, U.},
+  series = {FOM-Projektmanagement},
+  bdsk-url-1 = {http://books.google.de/books?id=3Wy5tgAACAAJ},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783892750482}
+}
+
+@BOOK{Berbig,
+  title = {Teambildende Ma{\ss}nahmen zur F{\"o}rderung der Gruppenkoh{\"a}sion
+	im Sportspiel Basketball},
+  publisher = {Cathleen Berbig},
+  year = {2009},
+  author = {Cathleen Berbig},
+  pages = {12--14},
+  edition = {1., Aufl.},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  keywords = {berbig, teambildung}
+}
+
+@BOOK{germanyjugendschutzgesetz,
+  title = {Jugendschutzgesetz},
+  year = {23. Juli 2002, 31. Oktober 2008},
+  author = {BGBI.},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000}
+}
+
+@BOOK{bohinc2011fuehrung,
+  title = {F{\"u}hrung im Projekt: F{\"u}hrungswissen f{\"u}r Projektleiter},
+  publisher = {Springer Verlag},
+  year = {2011},
+  author = {Bohinc, T.},
+  bdsk-url-1 = {http://books.google.de/books?id=vb9vsb8JNKsC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783642226250}
+}
+
+@BOOK{dembowski2009lokale,
+  title = {Lokale Netze: Handbuch der kompletten Netzwerktechnik},
+  publisher = {Addison Wesley Verlag},
+  year = {2009},
+  author = {Dembowski, K.},
+  bdsk-url-1 = {http://books.google.de/books?id=qyU3m9RUR5UC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783827328632}
+}
+
+@BOOK{DIN69901,
+  title = {DIN 69901 Projektmanagement - Projektmanagementsysteme},
+  publisher = {Beuth Verlag},
+  year = {2009},
+  author = {{Deutsches Institut f{\"u}r Normung e. V.}},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  keywords = {DIN, 69901}
+}
+
+@BOOK{diethelm2001projektmanagement,
+  title = {Projektmanagement: Sonderfragen : Personalmanagement in Projekten,
+	Qualit{\"a}tssicherung und Projektkontrolle, Besonderheiten des strategischen
+	und internationalen Projektmanagements},
+  publisher = {Verl. Neue Wirtschafts-Briefe},
+  year = {2001},
+  author = {Diethelm, G.},
+  series = {Projektmanagement},
+  bdsk-url-1 = {http://books.google.de/books?id=4J8zAAAACAAJ},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783482514012}
+}
+
+@BOOK{diethelm2000projektmanagement,
+  title = {Projektmanagement: Grundlagen : Kennzeichen erfolgreicher Projektabwicklung
+	; Aufbau und Ablauf des Projektmanagements ; Planung, {\"U}berwachung
+	und Steuerung von Projekten},
+  publisher = {Verlag Neue Wirtschafts-Briefe},
+  year = {2000},
+  author = {Diethelm, G.},
+  series = {Betriebswirtschaft in Studium und Praxis},
+  bdsk-url-1 = {http://books.google.de/books?id=Zs9ZHAAACAAJ},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783482511714}
+}
+
+@BOOK{duden2012Management,
+  title = {Stichwort: Management},
+  publisher = {Bibliographisches Institut GmbH},
+  year = {2012},
+  author = {Duden},
+  bdsk-url-1 = {http://www.duden.de/node/673152/revisions/890931/view},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  language = {German},
+  owner = {Fabian},
+  timestamp = {2013.01.04},
+  url = {http://www.duden.de/node/673152/revisions/890931/view}
+}
+
+@BOOK{duschinski2007web,
+  title = {Web 2.0: Chancen und Risiken f{\"u}r die Unternehmenskommunikation},
+  publisher = {Diplomica Verlag},
+  year = {2007},
+  author = {Duschinski, H.},
+  bdsk-url-1 = {http://books.google.de/books?id=0Bfw6Wi8a4EC},
+  date-added = {2013-04-21 21:42:17 +0000},
+  date-modified = {2013-04-21 21:42:17 +0000},
+  isbn = {9783836653190},
+  url = {http://books.google.de/books?id=0Bfw6Wi8a4EC}
+}
+
+@BOOK{dye2008netzwerkgrundlagen,
+  title = {Netzwerkgrundlagen- CCNA Exploration Companion Guide},
+  publisher = {Addison Wesley Verlag},
+  year = {2008},
+  author = {Dye, M. and McDonald, R. and Rufi, A.},
+  series = {Cisco Press},
+  bdsk-url-1 = {http://books.google.de/books?id=0bS195LOjNMC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783827326850},
+  owner = {Fabian},
+  timestamp = {2012.07.06}
+}
+
+@BOOK{ebenh2008verbale,
+  title = {Verbale und nonverbale Aspekte der Kommunikation bei G. H. Mead},
+  publisher = {GRIN Verlag GmbH},
+  year = {2008},
+  author = {Ebenh{\"o}h, U.},
+  bdsk-url-1 = {http://books.google.de/books?id=VUsPgiOFdf4C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783638010047},
+  keywords = {kommunikation}
+}
+
+@ARTICLE{iee8023afpss,
+  author = {Michael Edwards},
+  title = {IEEE 802.3af DTE Power Supply Specification},
+  year = {2000},
+  bdsk-url-1 = {http://www.ieee802.org/3/power_study/public/email_attach/DTE_pwr_spec.pdf},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  owner = {Fabian},
+  timestamp = {2012.07.18},
+  url = {http://www.ieee802.org/3/power_study/public/email_attach/DTE_pwr_spec.pdf}
+}
+
+@BOOK{Eigner2009,
+  title = {Product Lifecycle Management: Ein Leitfaden f{\"u}r Product Development
+	und Life Cycle Management},
+  publisher = {Springer},
+  year = {2009},
+  author = {Eigner, M. and Stelzer, R.},
+  bdsk-url-1 = {http://books.google.de/books?id=HpzIHvOXXDQC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783540443735},
+  owner = {Fabian},
+  timestamp = {2013.01.01},
+  url = {http://books.google.de/books?id=HpzIHvOXXDQC}
+}
+
+@BOOK{eigner2009product,
+  title = {Product Lifecycle Management: Ein Leitfaden f{\"u}r Product Development
+	und Life Cycle Management},
+  publisher = {Springer},
+  year = {2009},
+  author = {Eigner, M. and Stelzer, R.},
+  bdsk-url-1 = {http://books.google.de/books?id=HpzIHvOXXDQC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783540443735},
+  owner = {Fabian},
+  timestamp = {2013.01.04},
+  url = {http://books.google.de/books?id=HpzIHvOXXDQC}
+}
+
+@ARTICLE{heise2007jugendschutzfilter,
+  author = {Monika Ermert},
+  title = {Schlechte Noten f{\"u}r Internet-Jugendschutzfilter},
+  journal = {heise.de},
+  year = {2007},
+  bdsk-url-1 = {http://www.heise.de/newsticker/meldung/Schlechte-Noten-fuer-Internet-Jugendschutzfilter-152060.html},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  owner = {Fabian},
+  timestamp = {2012.07.08},
+  url = {http://www.heise.de/newsticker/meldung/Schlechte-Noten-fuer-Internet-Jugendschutzfilter-152060.html}
+}
+
+@ARTICLE{heise2003jugendschutzfilter,
+  author = {Monika Ermert},
+  title = {Gutachten: Unzureichender Jugendschutz durch Filtersysteme},
+  journal = {heise.de},
+  year = {2003},
+  bdsk-url-1 = {http://www.heise.de/newsticker/meldung/Gutachten-Unzureichender-Jugendschutz-durch-Filtersysteme-77129.html},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  owner = {Fabian},
+  timestamp = {2012.07.08},
+  url = {http://www.heise.de/newsticker/meldung/Gutachten-Unzureichender-Jugendschutz-durch-Filtersysteme-77129.html}
+}
+
+@BOOK{frey2009rechtliche,
+  title = {Rechtliche Evaluierung des Jugendmedienschutz-Staatsvertrags},
+  publisher = {Books on Demand GmbH},
+  year = {2009},
+  author = {Frey, D. and Rudolph, M.},
+  bdsk-url-1 = {http://books.google.de/books?id=Rref3wDAS04C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783839117057},
+  owner = {Fabian},
+  timestamp = {2012.07.07}
+}
+
+@BOOK{gast2005802,
+  title = {802.11 Wireless Networks: The Definitive Guide},
+  publisher = {O'Reilly},
+  year = {2005},
+  author = {Gast, M.},
+  series = {Definitive Guide Series},
+  bdsk-url-1 = {http://books.google.de/books?id=9rHnRzzMHLIC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9780596100520},
+  lccn = {2006271874},
+  owner = {Fabian},
+  timestamp = {2012.07.22}
+}
+
+@BOOK{gier2006wlan,
+  title = {WLAN und Hotspot Know How},
+  publisher = {Unika-Fachverl.},
+  year = {2006},
+  author = {Gier, M.},
+  bdsk-url-1 = {http://books.google.de/books?id=Uxlt%5C_1p6lagC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783981124309}
+}
+
+@ARTICLE{computerwoche200618,
+  author = {Hartmut Giesen},
+  title = {Ein sicheres Netz f{\"u}r vier Firmen},
+  journal = {Computerwoche},
+  year = {2006},
+  volume = {18},
+  bdsk-url-1 = {http://www.computerwoche.de/heftarchiv/2006/18/1214406/},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  lastchecked = {03.07.2012},
+  url = {http://www.computerwoche.de/heftarchiv/2006/18/1214406/},
+  urldate = {28.04.2006}
+}
+
+@BOOK{gopi2005global,
+  title = {Global Positioning System: Principles And Applications},
+  publisher = {Tata Mcgraw-Hill Publishing Company Limited},
+  year = {2005},
+  author = {Gopi, S.},
+  series = {McGraw-Hill civil engineering series},
+  isbn = {9780070585997},
+  owner = {Fabian},
+  timestamp = {2013.05.02},
+  url = {http://books.google.de/books?id=caK3mhGyKVsC}
+}
+
+@OTHER{afphandy2012,
+  annote = {Artikel aus Quellen der AFP.},
+  author = {Handelsblatt},
+  bdsk-url-1 = {http://www.handelsblatt.com/technologie/it-tk/mobile-welt/neuer-rekord-112-millionen-aktive-handy-in-deutschland/6256418.html#hcf-add-comment-id},
+  date-added = {2013-04-21 15:33:50 +0000},
+  date-modified = {2013-04-21 15:42:53 +0000},
+  lastchecked = {21.04.2013},
+  title = {112 Millionen aktive Handy in Deutschland},
+  url = {http://www.handelsblatt.com/technologie/it-tk/mobile-welt/neuer-rekord-112-millionen-aktive-handy-in-deutschland/6256418.html#hcf-add-comment-id},
+  urldate = {26.02.2013}
+}
+
+@BOOK{herrmann2009ganzheitliches,
+  title = {Ganzheitliches Life Cycle Management: Nachhaltigkeit und Lebenszyklusorientierung
+	in Unternehmen},
+  publisher = {Springer},
+  year = {2009},
+  author = {Herrmann, C.},
+  series = {VDI-Buch},
+  bdsk-url-1 = {http://books.google.de/books?id=aSmtxCFTh80C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783642014208},
+  owner = {Fabian},
+  timestamp = {2013.01.04},
+  url = {http://books.google.de/books?id=aSmtxCFTh80C}
+}
+
+@BOOK{hoffmann2010data,
+  title = {Data Warehouse Im Rahmen Der Business Intelligence: Konzeption Eines
+	Vorgehensmodells},
+  publisher = {Diplomica Verlag Gmbh},
+  year = {2010},
+  author = {Hoffmann, D.},
+  bdsk-url-1 = {http://books.google.de/books?id=3CAapfakLTkC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783836695930},
+  owner = {Fabian},
+  timestamp = {2013.01.03},
+  url = {http://books.google.de/books?id=3CAapfakLTkC}
+}
+
+@BOOK{hohm2000soziale,
+  title = {Soziale Systeme, Kommunikation, Mensch: Eine Einf{\"u}hrung in soziologische
+	Systemtheorie},
+  publisher = {Juventa-Verlag},
+  year = {2000},
+  author = {Hohm, H.J.},
+  series = {Grundlagentexte Soziale Berufe},
+  bdsk-url-1 = {http://books.google.de/books?id=dbNoZaNv43sC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783779907572},
+  keywords = {kommunikation, sozial}
+}
+
+@ARTICLE{iee8023s1,
+  author = {IEEE},
+  title = {802.3 Section 1},
+  year = {2009},
+  bdsk-url-1 = {http://standards.ieee.org/getieee802/download/802.3-2008_section1.pdf},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  owner = {Fabian},
+  timestamp = {2012.07.18},
+  url = {http://standards.ieee.org/getieee802/download/802.3-2008_section1.pdf}
+}
+
+@ARTICLE{iee8023s2,
+  author = {IEEE},
+  title = {802.3 Section 2},
+  year = {2009},
+  bdsk-url-1 = {http://standards.ieee.org/getieee802/download/802.3-2008_section2.pdf},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  owner = {Fabian},
+  timestamp = {2012.07.18},
+  url = {http://standards.ieee.org/getieee802/download/802.3-2008_section2.pdf}
+}
+
+@BOOK{kuepper2005location,
+  title = {Location-Based Services: Fundamentals and Operation},
+  publisher = {Wiley},
+  year = {2005},
+  author = {K{\"u}pper, A.},
+  bdsk-url-1 = {http://books.google.de/books?id=-F3-eklYWvwC},
+  date-added = {2013-04-21 20:25:04 +0000},
+  date-modified = {2013-04-21 20:25:04 +0000},
+  isbn = {9780470092323},
+  url = {http://books.google.de/books?id=-F3-eklYWvwC}
+}
+
+@BOOK{kercher2002nonverbale,
+  title = {Nonverbale Kommunikation},
+  publisher = {GRIN Verlag GmbH},
+  year = {2002},
+  author = {Kercher, J.},
+  bdsk-url-1 = {http://books.google.de/books?id=6AYVA5kzARcC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783638119863}
+}
+
+@BOOK{kersten2012mobile,
+  title = {Mobile Device Management},
+  publisher = {mitp-Verlag},
+  year = {2012},
+  author = {Kersten, H. and Klett, G.},
+  series = {mitp Professional},
+  bdsk-url-1 = {http://books.google.de/books?id=FEzbJ5ZvQmAC},
+  date-added = {2013-04-21 20:39:27 +0000},
+  date-modified = {2013-04-21 20:39:27 +0000},
+  isbn = {9783826692147},
+  url = {http://books.google.de/books?id=FEzbJ5ZvQmAC}
+}
+
+@BOOK{kral2006wlan,
+  title = {WLAN f{\"u}r Schnelleinsteiger},
+  publisher = {Franzis},
+  year = {2006},
+  author = {Kral, A.},
+  series = {Franzis echt einfach},
+  bdsk-url-1 = {http://books.google.de/books?id=cHNpCDGNJNcC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783772364983},
+  owner = {Fabian},
+  timestamp = {2012.07.21}
+}
+
+@BOOK{kulbe2009grundwissen,
+  title = {Grundwissen Psychologie, Soziologie und P{\"a}dagogik: Lehrbuch f{\"u}r
+	Pflegeberufe},
+  publisher = {Kohlhammer},
+  year = {2009},
+  author = {Kulbe, A.},
+  series = {Kohlhammer Pflege},
+  bdsk-url-1 = {http://books.google.de/books?id=pT-jCCYHt70C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783170208032}
+}
+
+@BOOK{kurose2008computernetzwerke,
+  title = {Computernetzwerke: Der Top-Down-Ansatz},
+  publisher = {Pearson Studium},
+  year = {2008},
+  author = {Kurose, J.F. and Ross, K.W.},
+  series = {IT - Informatik},
+  bdsk-url-1 = {http://books.google.de/books?id=36vPdcV78YkC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783827373304},
+  owner = {Fabian},
+  timestamp = {2012.07.22}
+}
+
+@BOOK{kuster2011handbuch,
+  title = {Handbuch Projektmanagement},
+  publisher = {Springer-Verlag GmbH},
+  year = {2011},
+  author = {Kuster, J. and Huber, E. and Lippmann, R. and Schmid, A. and Schneider,
+	E. and Witschi, U. and W{\"u}st, R.},
+  series = {SpringerLink : B{\"u}cher},
+  bdsk-url-1 = {http://books.google.de/books?id=RL50IqWewfYC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783642212420}
+}
+
+@BOOK{ladengruber2012mobile,
+  title = {Mobile Erfassung von Instandhaltungsmeldungen in komplexen Organisationen
+	im Zusammenhang mit SAP als ERP System},
+  publisher = {GRIN Verlag},
+  year = {2012},
+  author = {Ladengruber, R.},
+  bdsk-url-1 = {http://books.google.de/books?id=yffxghj55Y8C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783656130376},
+  owner = {Fabian},
+  timestamp = {2013.01.04},
+  url = {http://books.google.de/books?id=yffxghj55Y8C}
+}
+
+@BOOK{lerg2002grosse,
+  title = {Das gro{\ss}e Buch Wireless LAN \& Bluetooth},
+  publisher = {Data Becker},
+  year = {2002},
+  author = {Lerg, A. and Stolz, A.},
+  bdsk-url-1 = {http://books.google.de/books?id=isL1PQAACAAJ},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783815825006},
+  owner = {Fabian},
+  timestamp = {2012.07.15}
+}
+
+@BOOK{litke2007projektmanagement,
+  title = {Projektmanagement: Methoden, Techniken, Verhaltensweisen. Evolution{\"a}res
+	Projektmanagement},
+  publisher = {Hanser Fachbuchverlag},
+  year = {2007},
+  author = {Litke, H.D.},
+  bdsk-url-1 = {http://books.google.de/books?id=hN0NKAP87YwC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783446409972}
+}
+
+@BOOK{luntovskyy2011planung,
+  title = {Planung und Optimierung von Rechnernetzen: Methoden, Modelle, Tools
+	f{\"u}r Entwurf, Diagnose und Management im Lebenszyklus von drahtgebundenen
+	und drahtlosen Rechnernetzen},
+  publisher = {Vieweg+Teubner Verlag},
+  year = {2011},
+  author = {Luntovskyy, A. and Gutter, D. and G{\"u}tter, D. and Melnyk, I.},
+  bdsk-url-1 = {http://books.google.de/books?id=XGthAlijk20C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783834814586},
+  owner = {Fabian},
+  timestamp = {2012.07.15}
+}
+
+@BOOK{Moehrle2012,
+  title = {Stichwort: Lebenszyklus},
+  publisher = {Gabler Verlag},
+  year = {2012},
+  author = {Prof. Dr. Martin G. M{\"o}hrle and Prof. Dr. Dieter Specht},
+  bdsk-url-1 = {http://wirtschaftslexikon.gabler.de/Archiv/55241/lebenszyklus-v7.html},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  journal = {Gabler Wirtschaftslexikon},
+  owner = {Fabian},
+  timestamp = {2013.01.02},
+  url = {http://wirtschaftslexikon.gabler.de/Archiv/55241/lebenszyklus-v7.html}
+}
+
+@BOOK{meier2009projektmanagement,
+  title = {Projektmanagement: Grundlagen, Methoden und Techniken},
+  publisher = {GABAL Verlag GmbH},
+  year = {2009},
+  author = {Meier, R.},
+  bdsk-url-1 = {http://books.google.de/books?id=bvwfCz4e604C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783869360164}
+}
+
+@BOOK{metter2012industrial,
+  title = {Industrial Ethernet in der Automatisierungstechnik},
+  publisher = {John Wiley \& Sons},
+  year = {2012},
+  author = {Metter, M. and Bucher, R.},
+  bdsk-url-1 = {http://books.google.de/books?id=l7GA2ZD%5C_X64C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783895786891},
+  owner = {Fabian},
+  timestamp = {2012.07.23}
+}
+
+@ARTICLE{mssafepwpp,
+  author = {Microsoft},
+  title = {Tipps zum Erstellen sicherer Kennw{\"o}rter und Passphrasen},
+  year = {2012},
+  bdsk-url-1 = {http://windows.microsoft.com/de-de/windows7/Tips-for-creating-strong-passwords-and-passphrases},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  owner = {Fabian},
+  timestamp = {2012.07.21},
+  url = {http://windows.microsoft.com/de-de/windows7/Tips-for-creating-strong-passwords-and-passphrases}
+}
+
+@MISC{molcho96,
+  author = {Samy Molcho},
+  title = {K{\"o}rpersprache},
+  year = {1996},
+  abstract = {T{\"a}glich benutzen wir sie, die K{\"o}rpersprache, die unser elementarstes
+	Kommunkationsmittel ist, und doch sch{\"o}pfen wir bei weitem nicht
+	alle ihre M{\"o}glichkeiten aus. Der ber{\"u}hmte Pantomime Samy
+	Molcho veranschaulicht anhand einmaliger Fotos, was man alles durch
+	Gestik, Mimik und K{\"o}rperhaltung ausdr{\"u}cken kann - ohne ein
+	einziges Wort!},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {3442126673},
+  keywords = {General AAS, K{\"o}rpersprache, Psychologie und Hilfe, B{\"u}cher
+	Trade-In, Taschenbuch, Condition (condition-type), Normale Gr{\"o}{\ss}e,
+	Samy Molcho},
+  language = {Deutsch (Unbekannt), Deutsch (Original), Deutsch (Published)},
+  number = {0},
+  pages = {256},
+  publisher = {Goldmann Verlag}
+}
+
+@BOOK{ramachandran2011backtrack,
+  title = {BackTrack 5 Wireless Penetration Testing Beginner's Guide},
+  publisher = {Packt Publishing, Limited},
+  year = {2011},
+  author = {Ramachandran, V.},
+  bdsk-url-1 = {http://books.google.de/books?id=sq3wZ2IUOvIC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9781849515580},
+  owner = {Fabian},
+  timestamp = {2012.07.20}
+}
+
+@BOOK{rogl2010mediation,
+  title = {Mediation \& Nonverbale Kommunikation:},
+  publisher = {Books on Demand},
+  year = {2010},
+  author = {Rogl, S.},
+  bdsk-url-1 = {http://books.google.de/books?id=ofErW7e%5C_B%5C_8C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783842341876}
+}
+
+@ELECTRONIC{lbsruwe2013,
+  author = {Jörg Ruwe},
+  month = {Februar},
+  year = {2013},
+  title = {LBS heute: 2 kg schwer, 6 cm hoch},
+  language = {Deutsch},
+  url = {http://www.mobile-zeitgeist.com/2013/02/28/lbs-heute-2-kg-schwer-6-cm-hoch/},
+  owner = {Fabian},
+  timestamp = {2013.05.01}
+}
+
+@BOOK{schein2008kommunikation,
+  title = {Kommunikation- Definition, Ablauf, Arten},
+  publisher = {GRIN Verlag GmbH},
+  year = {2008},
+  author = {Schein, S.},
+  bdsk-url-1 = {http://books.google.de/books?id=TV2PlI6G1x0C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783640162628},
+  keywords = {kommunikation, studienarbeit}
+}
+
+@BOOK{schiller2004location,
+  title = {Location-Based Services},
+  publisher = {Elsevier Science},
+  year = {2004},
+  author = {Schiller, J. and Voisard, A.},
+  series = {The Morgan Kaufmann Series in Data Management Systems},
+  bdsk-url-1 = {http://books.google.de/books?id=wj19b5wVfXAC},
+  date-added = {2013-04-21 19:44:08 +0000},
+  date-modified = {2013-04-21 19:44:08 +0000},
+  isbn = {9780080491721},
+  url = {http://books.google.de/books?id=wj19b5wVfXAC}
+}
+
+@BOOK{schnabel2009datenschutz,
+  title = {Datenschutz bei profilbasierten Location Based Services. Die datenschutzad{\"a}quate
+	Gestaltung von Service-Plattformen f{\"u}r Mobilkommunikation},
+  publisher = {Kassel University Press},
+  year = {2009},
+  author = {Schnabel, C.},
+  series = {Forum Wirtschaftsrecht},
+  isbn = {9783899586985},
+  owner = {Fabian},
+  timestamp = {2013.05.01},
+  url = {http://books.google.de/books?id=26bIe8SV9cgC}
+}
+
+@BOOK{schroeder2009supply,
+  title = {Supply Chain Management: Idee, Aufgaben, Ziele},
+  publisher = {Hammer, Patrick, Tanja Hammer, Matthias Knoop, Julius Mittenzwei,
+	Georg Steinbach u. Michael Teltscher. GRIN Verlag GbR},
+  year = {2009},
+  author = {Schr{\"o}der, C. and Der, C.S.},
+  bdsk-url-1 = {http://books.google.de/books?id=9Z%5C_UZaQsgN4C},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783640320424},
+  owner = {Fabian},
+  timestamp = {2013.01.04},
+  url = {http://books.google.de/books?id=9Z\_UZaQsgN4C}
+}
+
+@BOOK{sendler2009plm,
+  title = {Das PLM-Kompendium: Referenzbuch des Produkt-Lebenszyklus-Managements},
+  publisher = {Springer},
+  year = {2009},
+  author = {Sendler, U.},
+  bdsk-url-1 = {http://books.google.de/books?id=-MFxuZe0cNkC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783540878971},
+  owner = {Fabian},
+  timestamp = {2013.01.03},
+  url = {http://books.google.de/books?id=-MFxuZe0cNkC}
+}
+
+@BOOK{stark2011decision,
+  title = {Decision Engineering: Product Lifecycle Management: 21st Century
+	Paradigm for Product Realisation},
+  publisher = {Springer London},
+  year = {2011},
+  author = {Stark, J.},
+  series = {Decision Engineering},
+  bdsk-url-1 = {http://books.google.de/books?id=q9AdtdDeuPsC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9780857295460},
+  owner = {Fabian},
+  timestamp = {2013.01.02},
+  url = {http://books.google.de/books?id=q9AdtdDeuPsC}
+}
+
+@MISC{kluever2007,
+  author = {Christina Stoica-Kl{\"u}ver and J{\"u}rgen Kl{\"u}er and J{\"o}rn
+	Schmidt},
+  title = {Besser und erfolgreicher kommunizieren!: Vortr{\"a}ge, Gespr{\"a}che,
+	Diskussionen},
+  year = {2007},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  edition = {1},
+  isbn = {393713722X},
+  keywords = {Erwachsenenbildung, General AAS, Gespr{\"a}chsf{\"u}hrung, K{\"o}rpersprache,
+	B{\"u}cher Trade-In, Taschenbuch, Condition (condition-type), Normale
+	Gr{\"o}{\ss}e},
+  language = {Deutsch (Unbekannt), Deutsch (Original), Deutsch (Published)},
+  number = {0},
+  pages = {188},
+  publisher = {W3l}
+}
+
+@BOOK{Svonksvuori2011product,
+  title = {Product Lifecycle Management},
+  publisher = {Springer},
+  year = {2011},
+  author = {Svonksvuori, A. and Immonen, A.},
+  bdsk-url-1 = {http://books.google.de/books?id=CiHbLm6twJMC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783540781721},
+  lccn = {2008922905},
+  owner = {Fabian},
+  timestamp = {2013.01.02},
+  url = {http://books.google.de/books?id=CiHbLm6twJMC}
+}
+
+@ARTICLE{iee8023af,
+  author = {802.3af Task Force},
+  title = {IEEE P802.3af DTE Power via MDI Task Force},
+  year = {2003},
+  bdsk-url-1 = {http://www.ieee802.org/3/af/index.html},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  owner = {Fabian},
+  timestamp = {2012.07.18},
+  url = {http://www.ieee802.org/3/af/index.html}
+}
+
+@BOOK{volker2005product,
+  title = {Product Lifecycle Management beherrschen: Ein Anwenderhandbuch f{\"u}r
+	den Mittelstand},
+  publisher = {Springer-Verlag GmbH},
+  year = {2005},
+  author = {Volker Arnold, P. and Dettmering, H. and Engel, T. and Karcher, A.},
+  bdsk-url-1 = {http://books.google.de/books?id=OXI6uKZY0uEC},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783540229971},
+  owner = {Fabian},
+  timestamp = {2013.01.03},
+  url = {http://books.google.de/books?id=OXI6uKZY0uEC}
+}
+
+@BOOK{wischnewski2001modernes,
+  title = {Modernes Projektmanagement},
+  publisher = {Vieweg},
+  year = {2001},
+  author = {Wischnewski, E.},
+  bdsk-url-1 = {http://books.google.de/books?id=eGNbHQAACAAJ},
+  date-added = {2013-01-07 09:24:50 +0000},
+  date-modified = {2013-01-07 09:24:50 +0000},
+  isbn = {9783528651480}
+}
+

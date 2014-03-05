@@ -1,0 +1,16 @@
+[0] Config.pm:361> INFO - This is Biber 1.5
+[0] Config.pm:364> INFO - Logfile is 'main.blg'
+[122] biber-darwin:193> INFO - === Wed Mar  5, 2014, 23:13:51
+[123] Biber.pm:327> INFO - Reading 'main.bcf'
+[242] Biber.pm:598> INFO - Using all citekeys in bib section 0
+[266] Biber.pm:2976> INFO - Processing section 0
+[282] Biber.pm:3086> INFO - Looking for bibtex format file 'bib/literatur.bib' for section 0
+[285] bibtex.pm:764> INFO - Found BibTeX data source 'bib/literatur.bib'
+[340] Utils.pm:167> WARN - Invalid format '26.02.2013' of date field 'urldate' in entry 'afphandy2012' - ignoring
+[379] Utils.pm:167> WARN - Invalid format '28.04.2006' of date field 'urldate' in entry 'computerwoche200618' - ignoring
+[937] Biber.pm:2860> INFO - Overriding locale 'de_DE' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[938] Biber.pm:2866> INFO - Sorting 'entry' list 'nty' keys
+[938] Biber.pm:2870> INFO - No sort tailoring available for locale 'de_DE'
+[1610] bbl.pm:462> INFO - Writing 'main.bbl' with encoding 'latin1'
+[1613] bbl.pm:535> INFO - Output to main.bbl
+[1613] Biber.pm:107> INFO - WARNINGS: 2
